@@ -1,4 +1,4 @@
-![logo](https://github.com/biljam23303/bilel.jammazi/blob/main/00.jfif)
+![logo](https://github.com/biljam23303/bilel.jammazi/blob/main/ban.jpg)
 <h1 align="center">Hi 👋, I'm Bilel jammazi</h1>
 <h3 align="center">I am passionate about data analytics</h3>
 <img align="right" alt="coding" width="400" src="https://blog.thecenterforsalesstrategy.com/hs-fs/hubfs/analytics.gif?width=400&name=analytics.gif">
