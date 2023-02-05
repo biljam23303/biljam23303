@@ -1,3 +1,4 @@
+![logo](https://github.com/biljam23303/bilel.jammazi/commit/1ab4d779a3d88339c39f05c701941d7369aaf729)
 <h1 align="center">Hi 👋, I'm Bilel jammazi</h1>
 <h3 align="center">I am passionate about data analytics</h3>
 <img align="right" alt="coding" width="400" src="https://blog.thecenterforsalesstrategy.com/hs-fs/hubfs/analytics.gif?width=400&name=analytics.gif">
