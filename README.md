@@ -1,6 +1,6 @@
 ![logo](https://github.com/biljam23303/bilel.jammazi/blob/main/ban.jpg)
 <h1 align="center">Hi 👋, I'm Bilel jammazi</h1>
-<h3 align="center">I am passionate about data analytics</h3>
+<h3 align="center">I am passionate about data analytics and web development</h3>
 <img align="right" alt="coding" width="400" src="https://blog.thecenterforsalesstrategy.com/hs-fs/hubfs/analytics.gif?width=400&name=analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biljam23303&label=Profile%20views&color=0e75b6&style=flat" alt="biljam23303" /> </p>
